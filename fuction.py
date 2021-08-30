@@ -58,30 +58,31 @@ def monday_routine():
     print("go back at home")
     print("pray")
 
-    # monday 
-    print("")
-    monday_routine()
+# monday 
+print("")
+monday_routine()
 
 # Tuesday 
-    print("")
-    monday_routine()
+print("")
+monday_routine()
 
 
 
 # wednesday
-    print("")
-    monday_routine()
+print("")
+monday_routine()
 
 
 
 
 # thursday 
-    print("")
-    monday_routine()
+print("")
+monday_routine()
 
 # friday
-    print("")
-    monday_routine()
+print("")
+monday_routine()
+
 
 
 
