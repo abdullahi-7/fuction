@@ -56,3 +56,36 @@ def monday_routine():
     print("go to the luch time")
     print("write the question")
     print("go back at home")
+    print("pray")
+
+    # monday 
+    print("")
+    monday_routine()
+
+# Tuesday 
+    print("")
+    monday_routine()
+
+
+
+# wednesday
+    print("")
+    monday_routine()
+
+
+
+
+# monday 
+    print("")
+    monday_routine()
+
+# monday 
+    print("")
+    monday_routine()
+
+
+
+
+
+
+
