@@ -52,3 +52,5 @@ def monday_routine():
     print("read the book")
     print("go to the break time")
     print("back to the school")
+    print("write")
+    
