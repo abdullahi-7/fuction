@@ -75,11 +75,11 @@ def monday_routine():
 
 
 
-# monday 
+# thursday 
     print("")
     monday_routine()
 
-# monday 
+# friday
     print("")
     monday_routine()
 
