@@ -43,3 +43,12 @@ morning_routine()
 #print("Wear uniform")
 #print("Eat breakfast")
 #print("take your bag and go to school!")
+
+
+def monday_routine():
+    print("wear uniform")
+    print("take your bag")
+    print("go to the school")
+    print("read the book")
+    print("go to the break time")
+    print("back to the school")
