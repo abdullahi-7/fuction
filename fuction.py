@@ -54,4 +54,5 @@ def monday_routine():
     print("back to the school")
     print("write")
     print("go to the luch time")
-    
+    print("write the question")
+    print("go back at home")
