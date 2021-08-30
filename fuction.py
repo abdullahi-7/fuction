@@ -84,6 +84,10 @@ print("")
 monday_routine()
 
 
+# Saturday
+print("")
+monday_routine()
+
 
 
 
