@@ -1,5 +1,5 @@
 # Function
-# Day1
+ #Day1
 
 # Morning routine function
 def morning_routine():
@@ -11,39 +11,9 @@ def morning_routine():
     print("Eat breakfast")
     print("take your bag and go to school!")
 
-# Day 1
+ #Day 1
 print("")
 morning_routine()
-
-# Day 2
-print("")
-morning_routine()
-#print("Wake up")
-#print("Go to the washroom")
-#print("Brush your teeth")
-#print("Pray")
-#print("Wear uniform")
-#print("Eat breakfast")
-#print("take your bag and go to school!")
-
-# Day 3
-#print("Wake up")
-#print("Go to the washroom")
-#print("Brush your teeth")
-#print("Pray")
-#print("Wear uniform")
-#print("Eat breakfast")
-#print("take your bag and go to school!")
-
-# Day 4
-#print("Wake up")
-#print("Go to the washroom")
-#print("Brush your teeth")
-#print("Pray")
-#print("Wear uniform")
-#print("Eat breakfast")
-#print("take your bag and go to school!")
-
 
 def monday_routine():
     print("wear uniform")
@@ -58,7 +28,7 @@ def monday_routine():
     print("go back at home")
     print("pray")
 
-# monday 
+#S monday 
 print("")
 monday_routine()
 
@@ -78,9 +48,9 @@ monday_routine()
 # thursday 
 print("")
 monday_routine()
-
 # friday
-print("")
+
+# print("")
 monday_routine()
 
 
@@ -89,7 +59,7 @@ print("")
 monday_routine()
 
 
-## We can place all basics inside a function
+# We can place all basics inside a function
 # such as : variable, data types, conditional, user input and output...
 
 def name():
@@ -107,7 +77,7 @@ name()
 
 name()
 
-## Function take parameter or argument, like variable takes value
+# Function take parameter or argument, like variable takes value
 
 def sum(numX, numY):
     print(numX + numY)
@@ -116,3 +86,12 @@ print(" \nFunction with arguement")
 numberX = int(input("Write your first number? "))
 numberY = int(input("Write your second number? "))
 sum(numberX, numberY)
+
+
+
+def num(numbX, numbY):
+    print(numbX + numbY)
+
+numbeX = int(input("write the first number: "))
+numbeY = int(input("write the second number:"))
+num(numbeX, numbeY)
