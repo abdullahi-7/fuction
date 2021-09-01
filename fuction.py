@@ -89,8 +89,22 @@ print("")
 monday_routine()
 
 
+## We can place all basics inside a function
+# such as : variable, data types, conditional, user input and output...
 
+def name():
+    name = input("What's your name? ")
+    print (name)
+    n ="Abdullahi"
+    age = 12
+    school = "Mvita" 
+    print(n, age, school)
 
+print("")
+name()
 
+name()
+
+name()
 
 
