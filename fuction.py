@@ -107,4 +107,12 @@ name()
 
 name()
 
+## Function take parameter or argument, like variable takes value
 
+def sum(numX, numY):
+    print(numX + numY)
+
+print(" \nFunction with arguement")
+numberX = int(input("Write your first number? "))
+numberY = int(input("Write your second number? "))
+sum(numberX, numberY)
