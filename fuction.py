@@ -1,4 +1,4 @@
-# Function
+## Function
  #Day1
 
 # Morning routine function
@@ -59,8 +59,8 @@ print("")
 monday_routine()
 
 
-# We can place all basics inside a function
-# such as : variable, data types, conditional, user input and output...
+## We can place all basics inside a function
+## such as : variable, data types, conditional, user input and output...
 
 def name():
     name = input("What's your name? ")
@@ -77,7 +77,7 @@ name()
 
 name()
 
-# Function take parameter or argument, like variable takes value
+## Function take parameter or argument, like variable takes value
 
 def sum(numX, numY):
     print(numX + numY)
@@ -92,6 +92,17 @@ sum(numberX, numberY)
 def num(numbX, numbY):
     print(numbX + numbY)
 
+
+# Variable that take first number from the user
 numbeX = int(input("write the first number: "))
+# Variable that take second number from the user
 numbeY = int(input("write the second number:"))
+# calling num() function
 num(numbeX, numbeY)
+
+##  return value
+print("\nreturning value of function")
+def multiply(x):
+    return x * 2
+# when calling your function place it inside print()
+print(multiply(3))
