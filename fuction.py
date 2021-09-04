@@ -12,6 +12,7 @@ def morning_routine():
     print("take your bag and go to school!")
 
  #Day 1
+
 print("")
 morning_routine()
 
@@ -28,6 +29,7 @@ def monday_routine():
     print("go back at home")
     print("pray")
 
+# all the name of the fuction is monday_routine()
 #S monday 
 print("")
 monday_routine()
@@ -63,6 +65,7 @@ monday_routine()
 ## such as : variable, data types, conditional, user input and output...
 
 def name():
+    # name of the variable is question
     name = input("What's your name? ")
     print (name)
     n ="Abdullahi"
@@ -71,6 +74,7 @@ def name():
     print(n, age, school)
 
 print("")
+#all the name is the name ofthe fuction
 name()
 
 name()
@@ -84,12 +88,15 @@ def sum(numX, numY):
 
 print(" \nFunction with arguement")
 numberX = int(input("Write your first number? "))
+# the nnumberX is a variable and is a integer
 numberY = int(input("Write your second number? "))
+# and numberY is a integer
 sum(numberX, numberY)
 
-
-
+# exercise
+# de is a fuction
 def num(numbX, numbY):
+# the numbX and numbY is name of a fuction
     print(numbX + numbY)
 
 
@@ -106,3 +113,10 @@ def multiply(x):
     return x * 2
 # when calling your function place it inside print()
 print(multiply(3))
+
+# exercise
+#subtruct is a fuction
+def subtruct(S):
+    return S * 3
+# return is used for fuction
+print(subtruct("\nnasra\n"))
